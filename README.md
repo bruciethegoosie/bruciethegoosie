@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @bruciethegoosie
-- 👀 I’m interested in Video Games, Sports, and Food.
-- 🌱 I’m currently learning Assembly & Computer Architecture, Discrete Mathematics II, Intro to Software Development, General Chemistry, and Computer Ethics 
-- 💞️ I’m looking to collaborate on software development projects.
-- 📫 How to reach me @bruceleeewater@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a cuticle biter, not a nail biter.
+Hello! My name is Bruce Le, and I’m a fourth-year Computer Science student with a focus on cybersecurity. I’m driven by curiosity and enjoy learning about evolving threats and how organizations adapt in order to defend against them. I’m seeking hands-on industry experience where I can strengthen my technical skills, learn from experienced professionals, and contribute through thoughtful problem-solving and consistent effort. Outside of school and work, I enjoy going to the gym, spending time with family and friends, watching shows and cartoons, and exploring new places and cuisines.
 
 <!---
 bruciethegoosie/bruciethegoosie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
