@@ -4,7 +4,7 @@ I’m a fourth-year Computer Science student at California State University, Ful
 
 I’m seeking hands-on industry experience where I can strengthen my technical skills, learn from experienced professionals, and contribute through thoughtful problem-solving and consistent effort. Outside of school and work, I enjoy going to the gym, spending time with family and friends, watching shows and cartoons, and exploring new places and cuisines.
 
-# Role Interests
+## Role Interests
 
 - Cybersecurity Engineering
 - Cloud Security
